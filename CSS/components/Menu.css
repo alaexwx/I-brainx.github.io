@@ -1,0 +1,17 @@
+.menu {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+  
+  .menu a {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 1.2em;
+  }
+  
+  .menu a:hover {
+    color: #ffcc00;
+  }
+ 

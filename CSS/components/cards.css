@@ -1,0 +1,33 @@
+}
+.cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.card {
+    max-width: 300px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    padding: 20px;
+    background: white;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.card h4 {
+    margin: 10px 0;
+    color: #ffcc00;
+}
+
+.card p {
+    color: #666;
+    font-size: 0.9em;
+}

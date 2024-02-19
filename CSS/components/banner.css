@@ -1,0 +1,28 @@
+.banner {
+    background-image: url('https://media.istockphoto.com/id/1443914481/fr/photo/intelligence-artificielle-du-cerveau-cpu-concept.jpg?s=2048x2048&w=is&k=20&c=E6zs7JR_CeFeYU4jNOfwshR4RW8_o90PmvxXCG1BJ7c=');
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    position: relative;
+  }
+  .banner h1,
+.banner p {
+  display: block; 
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 0.5em;
+  margin: 10px auto; 
+  width: fit-content;
+}
+
+.banner .btn-primary {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: #ffcc00; 
+  color: #333;
+  padding: 15px 30px; 
+  font-size: 1.1em; 
+}
